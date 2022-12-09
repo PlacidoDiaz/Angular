@@ -1,3 +1,3 @@
 # Angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-yxsvn5)
+Curso Angular Básico
